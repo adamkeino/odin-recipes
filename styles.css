@@ -1,17 +1,24 @@
-h1{
+.headings1{
     color:black;
     text-align: center;
     background-color: aqua;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    padding: 8px;
 }
 p{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: comic-sans;
     font-size: 28px;
+    background-color: aliceblue;
+    margin-top: 8px;
+    padding: 10px;
 }
-h4{
-    color-scheme: purple;
+.headings2{
+    background-color: rgb(156, 171, 232);
+    padding: 16px 8px;
     font-family: Arial;
-    font-size: 30px;
+    font-size: 18px;
     font-weight:300;
+    text-align: center;
 }
